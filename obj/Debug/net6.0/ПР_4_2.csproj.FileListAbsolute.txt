@@ -1,0 +1,15 @@
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.csproj.AssemblyReference.cache
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.AssemblyInfoInputs.cache
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.AssemblyInfo.cs
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\C#\ПР_4_2\bin\Debug\net6.0\ПР_4_2.exe
+C:\Users\Uzer\Desktop\C#\ПР_4_2\bin\Debug\net6.0\ПР_4_2.deps.json
+C:\Users\Uzer\Desktop\C#\ПР_4_2\bin\Debug\net6.0\ПР_4_2.runtimeconfig.json
+C:\Users\Uzer\Desktop\C#\ПР_4_2\bin\Debug\net6.0\ПР_4_2.dll
+C:\Users\Uzer\Desktop\C#\ПР_4_2\bin\Debug\net6.0\ПР_4_2.pdb
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.dll
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\refint\ПР_4_2.dll
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.pdb
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ПР_4_2.genruntimeconfig.cache
+C:\Users\Uzer\Desktop\C#\ПР_4_2\obj\Debug\net6.0\ref\ПР_4_2.dll
