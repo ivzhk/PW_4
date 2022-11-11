@@ -15,6 +15,7 @@ namespace PW_4
         public static int vertical = 1;
         public static int horizontal = 0;
         public static DateTime selectedDate = DateTime.Now;
+        public static int onedownload = 1;
 
         static void Main()
         {
@@ -66,16 +67,20 @@ namespace PW_4
             Note memo9 = new Note();
             Note memo10 = new Note();
 
-            Note.schedule.Add(memo1);
-            Note.schedule.Add(memo2);
-            Note.schedule.Add(memo3);
-            Note.schedule.Add(memo4);
-            Note.schedule.Add(memo5);
-            Note.schedule.Add(memo6);
-            Note.schedule.Add(memo7);
-            Note.schedule.Add(memo8);
-            Note.schedule.Add(memo9);
-            Note.schedule.Add(memo10);
+            if(onedownload == 1)
+            {
+                Note.schedule.Add(memo1);
+                Note.schedule.Add(memo2);
+                Note.schedule.Add(memo3);
+                Note.schedule.Add(memo4);
+                Note.schedule.Add(memo5);
+                Note.schedule.Add(memo6);
+                Note.schedule.Add(memo7);
+                Note.schedule.Add(memo8);
+                Note.schedule.Add(memo9);
+                Note.schedule.Add(memo10);
+            }
+            onedownload++;
 
             Console.WriteLine("  Выберите дейставие с ежедневником:\n  добавить заметку\n  читать заметки");
             ConsoleKeyInfo pointer = Console.ReadKey();
@@ -136,8 +141,7 @@ namespace PW_4
                 }
             }
             Console.Clear();
-            ReadMemo();
-            //Main();
+            Main();
         }
         static void ReadMemo()
         {
